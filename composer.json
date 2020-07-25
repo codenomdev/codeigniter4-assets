@@ -37,7 +37,7 @@
 	},
 	"autoload": {
 		"psr-4": {
-			"Tatter\\Assets\\": "src"
+			"Codenom\\Assets\\": "src"
 		}
 	},
 	"autoload-dev": {
